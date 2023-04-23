@@ -1,5 +1,12 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/KaushalIngle"><img src="https://github.com/KaushalIngle/KaushalIngle/blob/main/devcard.svg" width="400" alt="Kaushal Ingle's Dev Card"/></a>
+
+<a href="https://www.linkedin.com/in/inglekaushal/">
+  <img
+    src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+    alt="LinkedIn"
+  />
+</a>
+<a href="https://app.daily.dev/KaushalIngle"><img src="https://github.com/KaushalIngle/KaushalIngle/blob/main/devcard.svg" width="400" align="right" alt="Kaushal Ingle's Dev Card"/></a>
 <!--
 **KaushalIngle/KaushalIngle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
