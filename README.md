@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/KaushalIngle"><img src="https://api.daily.dev/devcards/cbdd969e42f94dc8b4ca296774758a5c.png?r=s6i" width="400" alt="Kaushal Ingle's Dev Card"/></a>
+<a href="https://app.daily.dev/KaushalIngle"><img src="https://github.com/KaushalIngle/KaushalIngle/blob/main/devcard.svg" width="400" alt="Kaushal Ingle's Dev Card"/></a>
 <!--
 **KaushalIngle/KaushalIngle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
